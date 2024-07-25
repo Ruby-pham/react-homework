@@ -1,0 +1,27 @@
+
+table{
+    border-collapse: collapse;
+    width:90%
+}
+th, td {
+    border: 1px solid #dddddd;
+    padding: 5px;
+}
+td{
+    width:30px
+}
+tr:nth-child(even){
+    background-color: #dddddd;
+}
+input{
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+.submit{
+    width:70px;
+    padding: 5px;
+    margin-bottom: 10px;
+    color: white;
+    background: cornflowerblue;
+    border-radius: 10px;
+}

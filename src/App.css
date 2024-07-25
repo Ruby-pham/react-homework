@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+div{
+  margin-top: 5px;
+}
+span{
+  padding: 10px;
+  font-size: larger;
+}
+.btn_change_color{
+  padding: 8px;
+}
+.container_calculator {
+  margin-top: 100px;
+  border: 1px solid black;
+  width:400px;
+  height: 250px;
+  margin-left: 100px;
+}
+.main_cal{
+  margin-top: 20px;
+}
+input{
+  padding: 5px;
+}
+.btn_calculator{
+  width:35px;
+  height:35px;
+  margin: 1px;
+  border-radius: 7px;
+
+}
+h5{
+  margin: 10px;
+
+}
