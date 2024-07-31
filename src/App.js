@@ -12,6 +12,15 @@ import Students from "./Components/Student-List";
 import Product from "./Components/Product";
 import Axios from'./Components/Axios'
 import {FComponent} from'./Components/F-Component'
+import {Example} from "./Components/F-useState-useEffect-hookCustom";
+import {Cars} from "./Components/F-useState-useEffect-hookCustom";
+import {Timer} from "./Components/F-useState-useEffect-hookCustom";
+import {FProduct} from'./Components/F-Product'
+import {RestCountries} from'./Components/F-Axios'
+import FormDemo from'./Components/F-Form'
+import {StudentGetApi} from "./Components-Git/Student-Get-Api";
+
+
 function App() {
     return (
         <div className="App">
@@ -24,7 +33,14 @@ function App() {
             {/*<Students/>*/}
             {/*<Product/>*/}
             {/*<Axios/>*/}
-            <FComponent/>
+            {/*<FComponent/>*/}
+            {/*<Example/>*/}
+            {/*<FProduct/>*/}
+            {/*<RestCountries/>*/}
+            {/*<Cars/>*/}
+            {/*<Timer/>*/}
+            {/*<FormDemo/>*/}
+            <StudentGetApi/>
 
         </div>
     );

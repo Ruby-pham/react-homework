@@ -10,9 +10,9 @@ th, td {
 td{
     width:30px
 }
-tr:nth-child(even){
-    background-color: #dddddd;
-}
+/*tr:nth-child(even){*/
+/*    background-color: #dddddd;*/
+/*}*/
 input{
     margin-bottom: 5px;
     margin-left: 15px;
